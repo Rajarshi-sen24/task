@@ -9,4 +9,7 @@ burger
 pasta
 shake
 
+chicken 
+curry
+
 thank you
